@@ -132,22 +132,22 @@ translations:
 
   - key: sections.other_tools.description.js2024
     t: |
-      Tahun ini tool AI melakukan debutnya dalam survei, dan meski masih didominasi oleh pemain lama, tapi senang rasanya melihat begitu banyak opsi yang telah tersedia!
+      Tahun ini tool AI melakukan debutnya dalam survei, dan meski masih didominasi oleh pemain lama, tapi senang rasanya melihat begitu banyak opsi yang tersedia!
 
   - key: sections.usage.description.js2024
     t: |
-      This year's survey paints the picture of an average respondent who uses TypeScript, always runs their code through a build step, and hasn't quite jumped on the AI bandwagon just yet.
+      Survei tahun ini menggambarkan rata-rata responden yang menggunakan TypeScript, selalu menjalankan kode melalui langkah build, dan belum mengikuti tren AI.
 
   - key: sections.resources.description.js2024
     t: |
-      While there are no lack of amazing courses, podcasts, and newsletters, video content in particular continues its takeover of JavaScript content. 
+      Meski tidak ada kekurangan kursus, podcast, dan surat kabar yang bagus, konten video masih terus menguasai konten JavaScript.
 
 
-      The Spanish-language conent ecosystem is also worth highlighting for putting up a worthy challenge to English's traditional dominance of the programming world.
+      Ekosistem konten berbahasa Spanyol layak untuk disorot sebagai lawan yang sepadan dengan dominasi konten berbahasa Inggris di dalam dunia programming.
 
   - key: sections.awards.description.js2024
     t: |
-      How *quickly* can you guess which project will take the top spot in each category?
+      Seberapa *cepat* anda bisa menebak proyek mana yang akan meraih posisi pertama dalam setiap kategori?
 
   ###########################################################################
   # Charts
@@ -166,44 +166,44 @@ translations:
 
   - key: blocks.gender.note
     t: |
-      If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+      Jika anda ingin mempelajari lebih lanjut, kami [menulis sebuah blog](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) yang menjelaskan dinamika gender dari survei ini.  
 
   - key: blocks.source.note
     t: >
 
-      This chart aggregates a mix of referrers, URL parameters, and freeform answers. 
+      Bagan ini mengumpulkan sekumpulan referrer, parameter URL, dan jawaban bebas. 
 
-      - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+      - State of JS: milis [State of JS](https://stateofjs.com).
 
-      - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+      - State of CSS: milis State of CSS; juga mencocokan `email`, `by email`, dll.
 
-      - Work: matches `work`, `colleagues`, `coworkers`, etc.
+      - Work: mencocokkan `work`, `colleagues`, `coworkers`, dll.
 
   ###########################################################################
   # Awards
   ###########################################################################
 
   - key: award.feature_adoption_delta_award.comment
-    t: With a **{value}** progression in 2022, **top-level await** has quickly become an integral part of JavaScript.
+    t: Dengan nilai progresi sebesar **{value}** pada 2022, **top-level await** dengan cepat menjadi bagian penting dalam JavaScript.
 
   - key: award.tool_usage_delta_award.comment
     t: |
-      Faithful to its name, **Vite** continues to grow at a record pace, adding **{value}** year-over-year in usage!
+      Setia dengan namanya, **Vite** terus berkembang dengan ritme yang mencetak rekor, menambah **{value}** dalam penggunaan tahun demi tahun!
 
   - key: award.tool_satisfaction_award.comment
-    t: Vitest takes the top spot, with **{value}** of developers willing to use it again!
+    t: Vitest meraih posisi pertama, dengan **{value}** pengembang yang akan menggunakannya lagi!
 
   - key: award.tool_interest_award.comment
-    t: Staying in the Vite ecosystem, this year **Rolldown** is the technology developers are most interested in with a **{value}** interest ratio.
+    t: Masih dalam ekosistem Vite, tahun ini **Rolldown** menjadi teknologi yang paling diminati oleh para pengembang dengan rasio ketertarikan sebesar **{value}**.
 
   - key: award.most_write_ins_award.comment
-    t: With **{value}** mentions, Angular meta-framework **Analog** was the library that received the most write-ins from respondents.
+    t: Dengan **{value}** penyebutan, Angular meta-framework **Analog** adalah pustaka yang menerima pilihan bebas terbanyak dari responden.
 
   - key: award.most_commented_tool_award.comment
-    t: Angular may not be the newest kid on the block, but it's still the talk of the town with **{value}** comments from respondents!
+    t: Angular mungkin bukan pemain baru, tapi masih menjadi perbincangan dengan **{value}** komentar dari responden!
 
   - key: award.most_loved_tool_award.comment
-    t: With **{value}** of all developers having a positive opinion of it, Vite once more gets the prize for most-loved technology!
+    t: Dengan pendapat positif sebanyak **{value}** dari pengembang, Vite sekali lagi mendapat peringkat pertama dalam teknologi yang paling dicintai!
 
   ###########################################################################
   # Conclusion
@@ -211,31 +211,31 @@ translations:
 
   - key: conclusion.js2024.fernando_herrera
     t: |
-      <span class="first-line">Several years ago, another State of JS survey put Astro on my radar.</span>
+      <span class="first-line">Beberapa tahun lalu, survei State of JS  lain membuatku tertarik dengan Astro.</span>
 
-      I decided to try it and after spending a few hours with it, I fell in love with the technology. It was almost love at first sight! Suddenly, I saw myself rebuilding my website, administrative tools, and other projects with Astro. Now, I can say that Astro is my favourite framework by far.
+      Aku memutuskan untuk mencobanya dan setelah menghabiskan beberapa jam, aku jatuh cinta dengan teknologi ini. Rasanya seperti cinta pada pandangan pertama! Tanpa sadar, Aku melihat diriku membuat ulang halaman webku sendiri, alat administrasi, dan proyek lainnya dengan Astro. Sekarang, aku bisa bilang bahwa Astro adalah kerangka kerja kesukaanku saat ini.
 
-      JavaScript is a dynamic and exciting ecosystem continually growing with many libraries and frameworks. From reusable components to client-side, server-side, and static solutions, there are countless ways to achieve your goals using Vanilla JavaScript, community packages, libraries, or frameworks—each offering new opportunities for innovation. Of course, it can feel overwhelming, but this diversity makes JavaScript powerful, giving you anywhere from one to hundreds of clever ways to succeed.
+      JavaScript itu ekosistem dinamis dan menarik yang terus berkembang dengan begitu banyak pustaka dan kerangka kerja. Dari komponen yang dapat digunakan kembali hingga sisi client, sisi server, dan solusi statis, begitu banyak cara untuk mencapai tujuanmu dengan Vanilla JavaScript, community package, pustaka, atau kerangka kerja yang masing-masing menawarkan kesempatan baru untuk berinovasi. Tentunya, itu mungkin bisa terasa berlebihan, tapi perbedaan inilah yang membuat JavaScript begitu hebat, memberimu begitu banyak opsi cerdas untuk mencapai tujuanmu.
 
-      Don’t be afraid to dive in and experiment with different tools—whether it’s Vitest or Jest, React or Solid, Node or Deno, Next.js or Astro – or something entirely new like [Brisa](https://brisa.build/). 
+      Jangan takut untuk terjun dan bereksperimen dengan tool yang berbeda meskipun itu adalah Vitest atau Jest, React atau Solid, Node atau Deno, Next.js atau Astro - atau bahkan sesuatu yang sangat berbeda seperti [Brisa](https://brisa.build/). 
 
-      Stay curious, as no other language offers the community, flexibility, and creativity that JavaScript does!
+      Terus mencari tahu, karena tidak ada bahasa pemrograman yang menawarkan komunitas, fleksibilitas, dan kreatifitas yang ditawarkan JavaScript!
 
   - key: conclusion.js2024.fernando_herrera.bio
-    t: Developer, educator, and YouTuber
+    t: Pengembang, pengajar, dan YouTuber
 
   - key: conclusion.js2024.shaundai_person
     t: |
-      <span class="first-line">Just under five years ago, I discovered the advantages of using TypeScript for the first time.</span>
+      <span class="first-line">Kurang dari lima tahun lalu, saya menemukan kelebihan dalam penggunaan TypeScript untuk pertama kalinya.</span>
 
-      I wasn't alone in this journey; I was among the many JavaScript developers who were just starting to explore TypeScript and its benefits for teams aiming to create scalable and maintainable front-end systems.  It’s amazing to me to see how quickly TypeScript has grown in popularity!  I’m thrilled to see that the majority of survey respondents now use TypeScript in their daily work.
+      Saya tidak sendirian dalam perjalanan ini; Saya adalah bagian dari banyaknya pengembang JavaScript yang baru mulai mempelajari TypeScript beserta kelebihannya untuk tim yang ingin menciptakan sistem front-end yang dapat berkembang dan dapat dipelihara. Yang membuatku kagum adalah betapa cepatnya perkembangan kepopuleran TypeScript! Aku senang melihat sebagian besar responden telah menggunakan TypeScript dalam pekerjaan sehari-hari mereka.
 
-      Today, my go-to stack for both my professional work and my personal projects contains React, TypeScript, Vite, and Jest. Large and rapidly-growing teams have placed their bets on these tools and look for expertise in these areas when hiring front-end developers. So it's no surprise to see that they have been widely adopted and retained by other organizations as well.
+      Saat ini, stack pilihanku untuk pekerjaan dan juga proyek pribadi adalah React, TypeScript, Vite, dan Jest. Tim besar dan yang berkembang dengan cepat telah bertaruh menggunakan tool ini dan carilah ahli dari area ini saat anda sedang merekrut pengembang front-end. Jadi tidak heran jika mereka telah diadopsi secara luas dan bahkan dipertahankan oleh organisasi lain.
 
-      If you're like me, you prefer to focus on mastering a few essential tools rather than continually experimenting with new frameworks and libraries. Also like me, you might even hold off on adopting the latest versions of reliable front-end tools until they reach stable releases and any issues are resolved. You’re not alone, and there are huge benefits for those of us who prefer the tried-and-true path.
+      Jika anda sepertiku, anda lebih memilih fokus untuk menguasai sedikit tool yang esensial ketimbang terus-menerus bereksperimen dengan kerangka kerja dan pustaka baru. Dan bagi saya, sebaiknya anda tidak mengadopsi versi terbaru dari tool front-end hingga mereka mencapai rilisan yang stabil dan isu yang ada telah diselesaikan. Anda tidak sendirian, dan ada begitu banyak keuntungan untuk mereka yang memilih jalan yang sudah teruji.
 
   - key: conclusion.js2024.shaundai_person.bio
-    t: Front end Senior Software Engineer (Netflix) and course instructor
+    t: Front end Senior Software Engineer (Netflix) dan instruktor kursus
 
   ###########################################################################
   # Picks
